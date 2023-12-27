@@ -1,0 +1,9 @@
+{
+	"name": "quispedatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6f6f896d-0c53-4b15-ad90-4e4683be3cfc",
+		"tenantId": "8f7e65e8-c599-43c7-af46-ce777e2880b5"
+	}
+}
